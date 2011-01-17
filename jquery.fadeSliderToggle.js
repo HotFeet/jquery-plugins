@@ -1,8 +1,11 @@
-/*
+/*!
  * HotFeet jQuery plugin
  *
- * Copyright 2010 HotFeet GmbH
+ * Copyright 2011 HotFeet GmbH
  * Licensed under GPL Version 3 licenses.
+ *
+ * Requires:
+ *  jQuery v1.3.2 or later
  */
 (function($) {
 	$.fn.fadeSliderToggle = function(settings) {
